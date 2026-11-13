@@ -1,0 +1,9 @@
+{
+  "headers": [{
+    "source": "/data/alerts.json",
+    "headers": [{
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    }]
+  }]
+}
